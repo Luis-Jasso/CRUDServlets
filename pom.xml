@@ -2,7 +2,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.luv2code</groupId>
-	<artifactId>maven-student-web-tracker</artifactId>
+	<artifactId>tienda-web-tracker</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
@@ -45,7 +45,7 @@
 
 	<build>
 
-		<finalName>maven-student-web-tracker</finalName>
+		<finalName>tienda-web-tracker</finalName>
 
 		<plugins>
 
